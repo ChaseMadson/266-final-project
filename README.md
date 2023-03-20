@@ -1,4 +1,4 @@
-# 266 Final Project: Hidden in the Fine Print: An NLP Approach to Informed Consent
+# Hidden in the Fine Print: An NLP Approach to Informed Consent
 Project repository for Chase Madson's solo final project for the UC Berkeley MIDS course 266: Natural Language Processing with Deep Learning
 
 ### Topic
